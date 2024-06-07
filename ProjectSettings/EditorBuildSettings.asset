@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 0a98f1e393ad7e24282d5222ad1009f4
+  - enabled: 1
+    path: Assets/Scenes/PlayScene 1.unity
+    guid: 8513832dc8a1ef94b84ab7cc8f2b014b
+  - enabled: 1
+    path: Assets/Scenes/PlayScene 2.unity
+    guid: a2f298ddf07e38f4aaeb27e69ee73e04
+  - enabled: 1
+    path: Assets/Scenes/PlayScene 3.unity
+    guid: 2e667edb25596d64d8cd2e0ec4b66734
+  - enabled: 1
+    path: Assets/Scenes/PlayScene 4.unity
+    guid: d061f2eec88857d42ac35dbfd64e12eb
+  - enabled: 1
+    path: Assets/Scenes/ScoreScene.unity
+    guid: 0c075a4d85839954abe402f573538304
+  - enabled: 1
+    path: Assets/Scenes/PlayScene 5.unity
+    guid: bb92360cdb473d64aae2bbdd86c1d39d
+  - enabled: 1
+    path: Assets/Scenes/PlayScene 6.unity
+    guid: 7d123bfdd6aa9924f81cddf5625ac7dd
+  - enabled: 1
+    path: Assets/Scenes/PlayScene 7.unity
+    guid: 69aeeaecf2d0b2b47a36022ab613d920
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: c59d9e3fe054eac4891ac2781611e7a6
+  - enabled: 1
+    path: Assets/Scenes/PlayScene 8.unity
+    guid: b62585b1e8383a647911eef8e2d5256c
+  - enabled: 1
+    path: Assets/Scenes/PlayScene 9.unity
+    guid: 4a27052f13cd5a34b93305e445fddd6f
+  - enabled: 1
+    path: Assets/Scenes/PlayScene 10.unity
+    guid: e3f7125895cacf74ab217e3379e7fed6
+  - enabled: 1
+    path: Assets/Scenes/SongScene.unity
+    guid: 8efc56e57d390954db658cddd66a0ec9
+  m_configObjects: {}

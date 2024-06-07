@@ -1,0 +1,609 @@
+fileFormatVersion: 2
+guid: b6eda32b8c294f34295001ac6d7b7b1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_0
+  - first:
+      213: 21300002
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_1
+  - first:
+      213: 21300004
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_2
+  - first:
+      213: 21300006
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_3
+  - first:
+      213: 21300008
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_4
+  - first:
+      213: 21300010
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_5
+  - first:
+      213: 21300012
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_6
+  - first:
+      213: 21300014
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_7
+  - first:
+      213: 21300016
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_8
+  - first:
+      213: 21300018
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_9
+  - first:
+      213: 21300020
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_10
+  - first:
+      213: 21300022
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_11
+  - first:
+      213: 21300024
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_12
+  - first:
+      213: 21300026
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_13
+  - first:
+      213: 21300028
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_14
+  - first:
+      213: 21300030
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_15
+  - first:
+      213: 21300032
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_16
+  - first:
+      213: 21300034
+    second: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 432
+        width: 116
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e8122bd1863c34f8b991339e8792d8
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_1
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 218
+        width: 120
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864f79c212a1e8f44abb33e63405ad92
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_2
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 396
+        width: 120
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3232c87f5d92edf4d90e6a16671db213
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_3
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 396
+        width: 118
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd26933b5fd82b449e3e67e2605d1cc
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 396
+        width: 118
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9cded29c6f9154bb9988d2e562daab
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 124
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd40478d0633e6448a1bb4f28a087119
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 216
+        width: 124
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0d385dd6f047141854c42f143af0e3
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 218
+        width: 124
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbd0d585506e504e85f3abf05677da1
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 216
+        width: 124
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456eefb1dc801a94f8e7231f2bba0a9d
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_9
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 180
+        width: 126
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91d5d8dd447bf44ba6ba8b1a4642565
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_10
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 180
+        width: 124
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b86ebb702287ef49b106069819e4e70
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 136
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5383735225286c46a78d81128cd6ae7
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 134
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e0fe1b98d2f8948916c0974be89106
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 130
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70d70af5da78f84db9d978934c508cd
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 130
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18cb450dc5b5434fba1621b39b34da9
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_15
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 130
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4736c0b7c00f39c42a6c29ebf100110e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_16
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 0
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65418634c3e0a340a73ed1a1bdc7221
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_17
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 0
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd17fbaea96717548a5566ae0cf16204
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_0: 21300000
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_1: 21300002
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_10: 21300020
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_11: 21300022
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_12: 21300024
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_13: 21300026
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_14: 21300028
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_15: 21300030
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_16: 21300032
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_17: 21300034
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_2: 21300004
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_3: 21300006
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_4: 21300008
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_5: 21300010
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_6: 21300012
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_7: 21300014
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_8: 21300016
+      PlayStation Vita - Taiko no Tatsujin V Version - Hibiki_9: 21300018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
